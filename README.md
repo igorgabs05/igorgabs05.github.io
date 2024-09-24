@@ -38,7 +38,7 @@
             <span class="navbar-toggler-icon"></span>
         </button>
         <a class="navbar-brand" href="https://www.google.com.br/?hl=pt-BR">
-            <img src="logo.png" width="80" alt="Logo Hecate">
+            <img src="logo.png" width="80" alt="./img/Logo Hecate">
         </a>
         <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav ml-auto">
@@ -83,11 +83,11 @@
             <li data-target="#bannerCarousel" data-slide-to="2"></li>
         </ol>
         <div class="carousel-inner">
-            <div class="carousel-item active" style="background-image: url('1.png');">
+            <div class="carousel-item active" style="background-image: url('./img/1.png');">
                 <div class="carousel-caption d-none d-md-block">
                 </div>
             </div>
-            <div class="carousel-item" style="background-image: url('2.png');">
+            <div class="carousel-item" style="background-image: url('./img/2.png');">
                 <div class="carousel-caption d-none d-md-block">
                 </div>
             </div>
@@ -427,8 +427,6 @@
                            <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-title="Tooltip on right">m</button>
                 <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="bottom" data-bs-title="Tooltip on bottom">g</button>
                 <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="left" data-bs-title="Tooltip on left">gg</button>
-                <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="top" data-bs-title="Tooltip on top">3g</button>
-                </button>
                     <a href="#" class="btn btn-primary" style="margin-top:20px;">Ver opções</a>
                         </div>
                     </div>
@@ -498,7 +496,7 @@
         </div>
         <div class="col-md-2">
             <div class="card mb-4">
-                <img src="hecate20.png" class="card-img-top" alt="Produto 43">
+                <img src="./img/hecate20.png" class="card-img-top" alt="Produto 43">
                 <div class="card-body">
                     <h5 class="card-title">Produto 3</h5>
                     <p class="card-text">Nome do produto</p>
@@ -517,7 +515,7 @@
         </div>
         <div class="col-md-2">
             <div class="card mb-4">
-                <img src="hecate21.png" class="card-img-top" alt="Produto 44">
+                <img src="./img/hecate21.png" class="card-img-top" alt="Produto 44">
                 <div class="card-body">
                    <h5 class="card-title">Produto 3</h5>
                     <p class="card-text">Nome do produto</p>

@@ -114,8 +114,8 @@
         }
 
         .banner-full-width {
-            width: 357px; /* Ajuste a largura conforme necessário */
-            height: 600px; /* Ajuste a altura conforme necessário */
+            width: 357px; 
+            height: 600px; 
             background-size: cover;
         }
 
@@ -130,13 +130,13 @@
         background-color: white;
         color: black;
         border: 1px solid black;
-          flex: 1; /* Garante que todos os botões tenham o mesmo tamanho */
-    padding: 5px 7px; /* Ajusta o tamanho do botão */
-    font-size: 12px; /* Diminui o tamanho da fonte */
+          flex: 1; 
+    padding: 5px 7px;
+    font-size: 12px; 
    
     .btn-container {
     display: flex;
-    justify-content: space-between; /* Espaçamento igual entre os botões */
-    flex-wrap: nowrap; /* Impede que os botões quebrem para uma nova linha */
-    gap: 5px; /* Espaçamento entre os botões */
+    justify-content: space-between; 
+    flex-wrap: nowrap;
+    gap: 5px; 
 }
