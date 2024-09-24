@@ -358,7 +358,7 @@
             <div class="row no-gutters">
                 <div class="col-md-2">
                     <div class="card mb-4">
-                        <img src="hecate13.png" class="card-img-top" alt="Produto 1">
+                        <img src="./img/hecate13.png" class="card-img-top" alt="Produto 1">
                         <div class="card-body">
                             <h5 class="card-title">Produto 3</h5>
                     <p class="card-text">Nome do produto</p>
@@ -415,7 +415,7 @@
                 </div>
                 <div class="col-md-2">
                     <div class="card mb-4">
-                        <img src="hecate16.png" class="card-img-top" alt="Produto 4">
+                        <img src="./img/hecate16.png" class="card-img-top" alt="Produto 4">
                         <div class="card-body">
                             <h5 class="card-title">Produto 3</h5>
                     <p class="card-text">Nome do produto</p>
@@ -473,7 +473,7 @@
 <div class="container-fluid">
     <div class="row no-gutters">
         <div class="col-md-6">
-            <div class="banner-full-width last-banner" style="background-image: url('./img/bannerinutil.png');"></div>
+            <div class="banner-full-width last-banner" style="background-image: url('bannerinutil.png');"></div>
         </div>
         <div class="col-md-2">
             <div class="card mb-4">
