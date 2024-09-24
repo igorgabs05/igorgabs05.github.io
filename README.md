@@ -87,11 +87,11 @@
                 <div class="carousel-caption d-none d-md-block">
                 </div>
             </div>
-            <div class="carousel-item" style="background-image: url('2.png');">
+            <div class="carousel-item" style="background-image: url('.2.png');">
                 <div class="carousel-caption d-none d-md-block">
                 </div>
             </div>
-            <div class="carousel-item" style="background-image: url('3.png');">
+            <div class="carousel-item" style="background-image: url('.3.png');">
                 <div class="carousel-caption d-none d-md-block">
                 </div>
             </div>
