@@ -13,7 +13,7 @@
 <body>
 
     <!-- Top Fixed Bar -->
-    <div class="fixed-top-bar">
+<div class="fixed-top-bar">
         <div class="left-side">
             <span>FRETE GRÁTIS APARTIR DE R$150</span>
         </div>
@@ -33,12 +33,12 @@
 </html>
 
     <!-- Main Navbar -->
-    <nav class="navbar navbar-expand-lg navbar-white bg-white">
+   <nav class="navbar navbar-expand-lg navbar-white bg-white">
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
         <a class="navbar-brand" href="https://www.google.com.br/?hl=pt-BR">
-            <img src="logo.png" width="80" alt="./img/Logo Hecate">
+            <img src="./img/logo.png" width="80" alt="./img/Logo Hecate">
         </a>
         <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav ml-auto">
@@ -59,7 +59,7 @@
     </nav>
 
     <!-- Secondary Navbar -->
-    <nav class="navbar secondary-nav navbar-expand-lg navbar-light">
+  <nav class="navbar secondary-nav navbar-expand-lg navbar-light">
         <div class="collapse navbar-collapse justify-content-center" id="secondaryNav">
             <ul class="navbar-nav">
                 <li class="nav-item"><a class="nav-link" href="#">Home</a></li>
@@ -76,7 +76,7 @@
     </nav>
 
     <!-- Carousel -->
-    <div id="bannerCarousel" class="carousel slide" data-ride="carousel">
+ <div id="bannerCarousel" class="carousel slide" data-ride="carousel">
         <ol class="carousel-indicators">
             <li data-target="#bannerCarousel" data-slide-to="0" class="active"></li>
             <li data-target="#bannerCarousel" data-slide-to="1"></li>
@@ -91,7 +91,7 @@
                 <div class="carousel-caption d-none d-md-block">
                 </div>
             </div>
-            <div class="carousel-item" style="background-image: url('3.png');">
+            <div class="carousel-item" style="background-image: url('./img/3.png');">
                 <div class="carousel-caption d-none d-md-block">
                 </div>
             </div>
@@ -107,13 +107,13 @@
     </div>
 
     <!-- Seção de Caixas de Compras -->
-    <section id="shop" class="py-5 bg-light">
+ <section id="shop" class="py-5 bg-light">
         <div class="container-fluid">
             <h2 class="text-center">novidades</h2>
             <div class="row no-gutters">
                 <div class="col-md-2">
                     <div class="card mb-4">
-                        <img src="hecate1.png" class="card-img-top" alt="Produto 1">
+                        <img src="./img/hecate1.png" class="card-img-top" alt="Produto 1">
                         <div class="card-body">
                             <h5 class="card-title">Produto 3</h5>
                     <p class="card-text">Nome do produto</p>
@@ -132,7 +132,7 @@
                 </div>
                 <div class="col-md-2">
                     <div class="card mb-4">
-                        <img src="hecate2.png" class="card-img-top" alt="Produto 2">
+                        <img src="./img/hecate2.png" class="card-img-top" alt="Produto 2">
                         <div class="card-body">
                            <h5 class="card-title">Produto 3</h5>
                     <p class="card-text">Nome do produto</p>
@@ -151,7 +151,7 @@
                 </div>
                 <div class="col-md-2">
                     <div class="card mb-4">
-                        <img src="hecate3.png" class="card-img-top" alt="Produto 3">
+                        <img src="./img/hecate3.png" class="card-img-top" alt="Produto 3">
                         <div class="card-body">
                             <h5 class="card-title">Produto 3</h5>
                     <p class="card-text">Nome do produto</p>
@@ -170,7 +170,7 @@
                 </div>
                 <div class="col-md-2">
                     <div class="card mb-4">
-                        <img src="hecate4.png" class="card-img-top" alt="Produto 4">
+                        <img src="./img/hecate4.png" class="card-img-top" alt="Produto 4">
                         <div class="card-body">
                             <h5 class="card-title">Produto 3</h5>
                     <p class="card-text">Nome do produto</p>
@@ -189,7 +189,7 @@
                 </div>
                 <div class="col-md-2">
                     <div class="card mb-4">
-                        <img src="hecate5.png" class="card-img-top" alt="Produto 5">
+                        <img src="./img/hecate5.png" class="card-img-top" alt="Produto 5">
                         <div class="card-body">
                             <h5 class="card-title">Produto 3</h5>
                     <p class="card-text">Nome do produto</p>
@@ -208,7 +208,7 @@
                 </div>
                 <div class="col-md-2">
                     <div class="card mb-4">
-                        <img src="hecate6.png" class="card-img-top" alt="Produto 6">
+                        <img src="./img/hecate6.png" class="card-img-top" alt="Produto 6">
                         <div class="card-body">
                             <h5 class="card-title">Produto 3</h5>
                     <p class="card-text">Nome do produto</p>
@@ -231,7 +231,7 @@
             <div class="row no-gutters">
                 <div class="col-md-2">
                     <div class="card mb-4">
-                        <img src="hecate7.png" class="card-img-top" alt="Produto 1">
+                        <img src="./img/hecate7.png" class="card-img-top" alt="Produto 1">
                         <div class="card-body">
                             <h5 class="card-title">Produto 3</h5>
                     <p class="card-text">Nome do produto</p>
@@ -250,7 +250,7 @@
                 </div>
                 <div class="col-md-2">
                     <div class="card mb-4">
-                        <img src="hecate8.png" class="card-img-top" alt="Produto 2">
+                        <img src="./img/hecate8.png" class="card-img-top" alt="Produto 2">
                         <div class="card-body">
                            <h5 class="card-title">Produto 3</h5>
                     <p class="card-text">Nome do produto</p>
@@ -269,7 +269,7 @@
                 </div>
                 <div class="col-md-2">
                     <div class="card mb-4">
-                        <img src="hecate9.png" class="card-img-top" alt="Produto 3">
+                        <img src="./img/hecate9.png" class="card-img-top" alt="Produto 3">
                         <div class="card-body">
                             <h5 class="card-title">Produto 3</h5>
                     <p class="card-text">Nome do produto</p>
@@ -288,7 +288,7 @@
                 </div>
                 <div class="col-md-2">
                     <div class="card mb-4">
-                        <img src="hecate10.png" class="card-img-top" alt="Produto 4">
+                        <img src="./img/hecate10.png" class="card-img-top" alt="Produto 4">
                         <div class="card-body">
                             <h5 class="card-title">Produto 3</h5>
                     <p class="card-text">Nome do produto</p>
@@ -307,7 +307,7 @@
                 </div>
                 <div class="col-md-2">
                     <div class="card mb-4">
-                        <img src="hecate11.png" class="card-img-top" alt="Produto 5">
+                        <img src="./img/hecate11.png" class="card-img-top" alt="Produto 5">
                         <div class="card-body">
                             <h5 class="card-title">Produto 3</h5>
                     <p class="card-text">Nome do produto</p>
@@ -322,14 +322,14 @@
                     <a href="#" class="btn btn-primary" style="margin-top:20px;">Ver opções</a>
                         </div>
                     </div>
-                </div>
+  </div>
                 <div class="col-md-2">
                     <div class="card mb-4">
-                        <img src="hecate12.png" class="card-img-top" alt="Produto 5">
+                        <img src="./img/hecate12.png" class="card-img-top" alt="Produto 5">
                         <div class="card-body">
-                            <h5 class="card-title">Produto 3</h5>
+                         <h5 class="card-title">Produto 3</h5>
                     <p class="card-text">Nome do produto</p>
-                    <p class="card-text"><strong>R$ 169,90</strong></p>
+              <p class="card-text"><strong>R$ 169,90</strong></p>
                     <p class="card-text">em até 6x de R$ 28,32 sem juros</p>
                     <p class="card-text">Por R$ 161,41 no PIX</p>
                      <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-title="Tooltip on right">p</button>
@@ -396,7 +396,7 @@
                 </div>
                 <div class="col-md-2">
                     <div class="card mb-4">
-                        <img src="hecate15.png" class="card-img-top" alt="Produto 3">
+                        <img src="./img/hecate15.png" class="card-img-top" alt="Produto 3">
                         <div class="card-body">
                             <h5 class="card-title">Produto 3</h5>
                     <p class="card-text">Nome do produto</p>
@@ -433,7 +433,7 @@
                 </div>
                 <div class="col-md-2">
                     <div class="card mb-4">
-                        <img src="hecate17.png" class="card-img-top" alt="Produto 5">
+                        <img src="./img/hecate17.png" class="card-img-top" alt="Produto 5">
                         <div class="card-body">
                             <h5 class="card-title">Produto 3</h5>
                     <p class="card-text">Nome do produto</p>
@@ -452,7 +452,7 @@
                 </div>
                 <div class="col-md-2">
                     <div class="card mb-4">
-                        <img src="hecate18.png" class="card-img-top" alt="Produto 6">
+                        <img src="./img/hecate18.png" class="card-img-top" alt="Produto 6">
                         <div class="card-body">
                             <h5 class="card-title">Produto 3</h5>
                     <p class="card-text">Nome do produto</p>
@@ -473,11 +473,11 @@
 <div class="container-fluid">
     <div class="row no-gutters">
         <div class="col-md-6">
-            <div class="banner-full-width last-banner" style="background-image: url('bannerinutil.png');"></div>
+            <div class="banner-full-width last-banner" style="background-image: url('./img/bannerinutil.png');"></div>
         </div>
         <div class="col-md-2">
             <div class="card mb-4">
-                <img src="hecate19.png" class="card-img-top" alt="Produto 42">
+                <img src="./img/hecate19.png" class="card-img-top" alt="Produto 42">
                 <div class="card-body">
                     <h5 class="card-title">Produto 3</h5>
                     <p class="card-text">Nome do produto</p>
