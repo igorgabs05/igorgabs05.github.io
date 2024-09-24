@@ -38,7 +38,7 @@
             <span class="navbar-toggler-icon"></span>
         </button>
         <a class="navbar-brand" href="https://www.google.com.br/?hl=pt-BR">
-            <img src="./img/logo.png" width="80" alt="./img/Logo Hecate">
+            <img src="logo.png" width="80" alt="logo Hecate">
         </a>
         <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav ml-auto">
