@@ -377,7 +377,7 @@
                 </div>
                 <div class="col-md-2">
                     <div class="card mb-4">
-                        <img src="hecate14.png" class="card-img-top" alt="Produto 2">
+                        <img src="./img/hecate14.png" class="card-img-top" alt="Produto 2">
                         <div class="card-body">
                            <h5 class="card-title">Produto 3</h5>
                     <p class="card-text">Nome do produto</p>
