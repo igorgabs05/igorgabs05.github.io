@@ -353,12 +353,12 @@
     <div class="banner-full-width" style="background-image: url('banner3.png');"></div>
 </div>
 
-   <div class="container-fluid">
+  <div class="container-fluid">
             <h2 class="text-center">mais vendidos</h2>
             <div class="row no-gutters">
                 <div class="col-md-2">
                     <div class="card mb-4">
-                        <img src="./img/hecate13.png" class="card-img-top" alt="Produto 1">
+                        <img src="hecate13.png" class="card-img-top" alt="Produto 1">
                         <div class="card-body">
                             <h5 class="card-title">Produto 3</h5>
                     <p class="card-text">Nome do produto</p>
