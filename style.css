@@ -140,3 +140,83 @@
     flex-wrap: nowrap;
     gap: 5px; 
 }
+           body {
+    font-family: Arial, sans-serif;
+}
+footer {
+    background-color: #f2f2f2;
+    padding: 40px 20px;
+    font-size: 14px;
+}
+.footer-container {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    max-width: 1300px;
+    margin: 0 auto;
+    padding: 0 30px; /* Ajusta o padding geral */
+}
+.footer-column {
+    flex: 1;
+    margin: 0 5px; /* Reduz o espaço entre as colunas */
+}
+.footer-column h4 {
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+.footer-column ul {
+    list-style: none;
+    padding: 0;
+}
+.footer-column ul li {
+    margin-bottom: 5px;
+}
+.footer-column ul li a {
+    text-decoration: none;
+    color: #000;
+}
+.social-icons a {
+    margin-right: 10px;
+}
+.social-icons img {
+    width: 24px;
+}
+.payment-icons {
+    margin-top: 10px;
+}
+.payment-icons img {
+    margin-right: 10px;
+    width: 24px;
+}
+.subscribe-section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 450px; /* Aumenta a largura da seção de cadastro */
+    margin-right: 0; /* Mantém distância mínima da borda direita */
+}
+.subscribe-section input[type="email"],
+.subscribe-section input[type="text"],
+.subscribe-section button {
+    padding: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+.subscribe-section button {
+    background-color: black;
+    color: white;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
+.footer-bottom {
+    text-align: center;
+    margin-top: 20px;
+}
+.footer-bottom p {
+    margin: 5px 0;
+}
+
