@@ -115,7 +115,7 @@
                     <div class="card mb-4">
                         <img src="./img/hecate1.png" class="card-img-top" alt="Produto 1">
                         <div class="card-body">
-                            <h5 class="card-title">Produto 3</h5>
+                            <h5 class="card-title">pijama</h5>
                     <p class="card-text">Nome do produto</p>
                     <p class="card-text"><strong>R$ 54,90</strong></p>
                     <p class="card-text">em até 2x de R$ 27,45 sem juros</p>
@@ -134,11 +134,11 @@
                     <div class="card mb-4">
                         <img src="./img/hecate2.png" class="card-img-top" alt="Produto 2">
                         <div class="card-body">
-                           <h5 class="card-title">Produto 3</h5>
+                           <h5 class="card-title">meia calça</h5>
                     <p class="card-text">Nome do produto</p>
-                    <p class="card-text"><strong>R$ 169,90</strong></p>
-                    <p class="card-text">em até 6x de R$ 28,32 sem juros</p>
-                    <p class="card-text">Por R$ 161,41 no PIX</p>
+                    <p class="card-text"><strong>R$ 32,00</strong></p>
+                    <p class="card-text">em até 2x de R$ 16,00 sem juros</p>
+                    <p class="card-text">Por R$ 31,40 no PIX</p>
                      <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-title="Tooltip on right">pp</button>
                      <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-title="Tooltip on right">p</button>
                           <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-title="Tooltip on right">m</button>
@@ -172,11 +172,11 @@
                     <div class="card mb-4">
                         <img src="./img/hecate4.png" class="card-img-top" alt="Produto 4">
                         <div class="card-body">
-                            <h5 class="card-title">Produto 3</h5>
+                            <h5 class="card-title">sobreposição</h5>
                     <p class="card-text">Nome do produto</p>
-                    <p class="card-text"><strong>R$ 169,90</strong></p>
-                    <p class="card-text">em até 6x de R$ 28,32 sem juros</p>
-                    <p class="card-text">Por R$ 161,41 no PIX</p>
+                    <p class="card-text"><strong>R$ 170,50</strong></p>
+                    <p class="card-text">em até 2x de R$ 85,25 sem juros</p>
+                    <p class="card-text">Por R$ 168,70 no PIX</p>
                      <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-title="Tooltip on right">pp</button>
                      <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-title="Tooltip on right">p</button>
                            <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-title="Tooltip on right">m</button>
@@ -191,11 +191,11 @@
                     <div class="card mb-4">
                         <img src="./img/hecate5.png" class="card-img-top" alt="Produto 5">
                         <div class="card-body">
-                            <h5 class="card-title">Produto 3</h5>
+                            <h5 class="card-title">calça pantalona renda</h5>
                     <p class="card-text">Nome do produto</p>
-                    <p class="card-text"><strong>R$ 169,90</strong></p>
-                    <p class="card-text">em até 6x de R$ 28,32 sem juros</p>
-                    <p class="card-text">Por R$ 161,41 no PIX</p>
+                    <p class="card-text"><strong>R$ 137,50</strong></p>
+                    <p class="card-text">em até 2x de R$ 68,75 sem juros</p>
+                    <p class="card-text">Por R$ 136,61 no PIX</p>
                      <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-title="Tooltip on right">pp</button>
                      <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-title="Tooltip on right">p</button>
                           <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-title="Tooltip on right">m</button>
