@@ -120,8 +120,8 @@
                     <p class="card-text"><strong>R$ 169,90</strong></p>
                     <p class="card-text">em até 6x de R$ 28,32 sem juros</p>
                     <p class="card-text">Por R$ 161,41 no PIX</p>
-                     <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-title="Tooltip on right">p</button>
                      <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-title="Tooltip on right">pp</button>
+                     <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-title="Tooltip on right">p</button>
                            <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-title="Tooltip on right">m</button>
                 <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="bottom" data-bs-title="Tooltip on bottom">g</button>
                 <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="left" data-bs-title="Tooltip on left">gg</button>
@@ -139,8 +139,8 @@
                     <p class="card-text"><strong>R$ 169,90</strong></p>
                     <p class="card-text">em até 6x de R$ 28,32 sem juros</p>
                     <p class="card-text">Por R$ 161,41 no PIX</p>
-                     <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-title="Tooltip on right">p</button>
                      <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-title="Tooltip on right">pp</button>
+                     <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-title="Tooltip on right">p</button>
                           <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-title="Tooltip on right">m</button>
                 <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="bottom" data-bs-title="Tooltip on bottom">g</button>
                 <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="left" data-bs-title="Tooltip on left">gg</button>
@@ -158,8 +158,8 @@
                     <p class="card-text"><strong>R$ 169,90</strong></p>
                     <p class="card-text">em até 6x de R$ 28,32 sem juros</p>
                     <p class="card-text">Por R$ 161,41 no PIX</p>
-                     <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-title="Tooltip on right">p</button>
                      <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-title="Tooltip on right">pp</button>
+                     <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-title="Tooltip on right">p</button>
                             <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-title="Tooltip on right">m</button>
                 <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="bottom" data-bs-title="Tooltip on bottom">g</button>
                 <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="left" data-bs-title="Tooltip on left">gg</button>
@@ -177,8 +177,8 @@
                     <p class="card-text"><strong>R$ 169,90</strong></p>
                     <p class="card-text">em até 6x de R$ 28,32 sem juros</p>
                     <p class="card-text">Por R$ 161,41 no PIX</p>
-                     <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-title="Tooltip on right">p</button>
                      <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-title="Tooltip on right">pp</button>
+                     <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-title="Tooltip on right">p</button>
                            <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-title="Tooltip on right">m</button>
                 <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="bottom" data-bs-title="Tooltip on bottom">g</button>
                 <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="left" data-bs-title="Tooltip on left">gg</button>
@@ -196,8 +196,8 @@
                     <p class="card-text"><strong>R$ 169,90</strong></p>
                     <p class="card-text">em até 6x de R$ 28,32 sem juros</p>
                     <p class="card-text">Por R$ 161,41 no PIX</p>
-                     <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-title="Tooltip on right">p</button>
                      <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-title="Tooltip on right">pp</button>
+                     <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-title="Tooltip on right">p</button>
                           <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-title="Tooltip on right">m</button>
                 <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="bottom" data-bs-title="Tooltip on bottom">g</button>
                 <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="left" data-bs-title="Tooltip on left">gg</button>
@@ -215,8 +215,8 @@
                     <p class="card-text"><strong>R$ 169,90</strong></p>
                     <p class="card-text">em até 6x de R$ 28,32 sem juros</p>
                     <p class="card-text">Por R$ 161,41 no PIX</p>
-                     <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-title="Tooltip on right">p</button>
                      <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-title="Tooltip on right">pp</button>
+                     <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-title="Tooltip on right">p</button>
                            <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-title="Tooltip on right">m</button>
                 <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="bottom" data-bs-title="Tooltip on bottom">g</button>
                 <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="left" data-bs-title="Tooltip on left">gg</button>
@@ -238,8 +238,8 @@
                     <p class="card-text"><strong>R$ 169,90</strong></p>
                     <p class="card-text">em até 6x de R$ 28,32 sem juros</p>
                     <p class="card-text">Por R$ 161,41 no PIX</p>
-                     <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-title="Tooltip on right">p</button>
                      <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-title="Tooltip on right">pp</button>
+                     <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-title="Tooltip on right">p</button>
                          <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-title="Tooltip on right">m</button>
                 <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="bottom" data-bs-title="Tooltip on bottom">g</button>
                 <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="left" data-bs-title="Tooltip on left">gg</button>
@@ -257,8 +257,8 @@
                     <p class="card-text"><strong>R$ 169,90</strong></p>
                     <p class="card-text">em até 6x de R$ 28,32 sem juros</p>
                     <p class="card-text">Por R$ 161,41 no PIX</p>
-                     <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-title="Tooltip on right">p</button>
                      <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-title="Tooltip on right">pp</button>
+                     <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-title="Tooltip on right">p</button>
                            <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-title="Tooltip on right">m</button>
                 <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="bottom" data-bs-title="Tooltip on bottom">g</button>
                 <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="left" data-bs-title="Tooltip on left">gg</button>
@@ -276,8 +276,8 @@
                     <p class="card-text"><strong>R$ 169,90</strong></p>
                     <p class="card-text">em até 6x de R$ 28,32 sem juros</p>
                     <p class="card-text">Por R$ 161,41 no PIX</p>
-                     <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-title="Tooltip on right">p</button>
                      <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-title="Tooltip on right">pp</button>
+                     <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-title="Tooltip on right">p</button>
                           <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-title="Tooltip on right">m</button>
                 <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="bottom" data-bs-title="Tooltip on bottom">g</button>
                 <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="left" data-bs-title="Tooltip on left">gg</button>
@@ -295,8 +295,8 @@
                     <p class="card-text"><strong>R$ 169,90</strong></p>
                     <p class="card-text">em até 6x de R$ 28,32 sem juros</p>
                     <p class="card-text">Por R$ 161,41 no PIX</p>
-                     <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-title="Tooltip on right">p</button>
                      <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-title="Tooltip on right">pp</button>
+                     <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-title="Tooltip on right">p</button>
                            <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-title="Tooltip on right">m</button>
                 <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="bottom" data-bs-title="Tooltip on bottom">g</button>
                 <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="left" data-bs-title="Tooltip on left">gg</button>
@@ -314,8 +314,8 @@
                     <p class="card-text"><strong>R$ 169,90</strong></p>
                     <p class="card-text">em até 6x de R$ 28,32 sem juros</p>
                     <p class="card-text">Por R$ 161,41 no PIX</p>
-                     <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-title="Tooltip on right">p</button>
                      <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-title="Tooltip on right">pp</button>
+                     <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-title="Tooltip on right">p</button>
                            <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-title="Tooltip on right">m</button>
                 <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="bottom" data-bs-title="Tooltip on bottom">g</button>
                 <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="left" data-bs-title="Tooltip on left">gg</button>
@@ -332,8 +332,8 @@
               <p class="card-text"><strong>R$ 169,90</strong></p>
                     <p class="card-text">em até 6x de R$ 28,32 sem juros</p>
                     <p class="card-text">Por R$ 161,41 no PIX</p>
-                     <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-title="Tooltip on right">p</button>
                      <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-title="Tooltip on right">pp</button>
+                     <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-title="Tooltip on right">p</button>
                           <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-title="Tooltip on right">m</button>
                 <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="bottom" data-bs-title="Tooltip on bottom">g</button>
                 <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="left" data-bs-title="Tooltip on left">gg</button>
@@ -365,8 +365,8 @@
                     <p class="card-text"><strong>R$ 169,90</strong></p>
                     <p class="card-text">em até 6x de R$ 28,32 sem juros</p>
                     <p class="card-text">Por R$ 161,41 no PIX</p>
-                     <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-title="Tooltip on right">p</button>
                      <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-title="Tooltip on right">pp</button>
+                     <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-title="Tooltip on right">p</button>
                             <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-title="Tooltip on right">m</button>
                 <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="bottom" data-bs-title="Tooltip on bottom">g</button>
                 <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="left" data-bs-title="Tooltip on left">gg</button>
@@ -384,8 +384,8 @@
                     <p class="card-text"><strong>R$ 169,90</strong></p>
                     <p class="card-text">em até 6x de R$ 28,32 sem juros</p>
                     <p class="card-text">Por R$ 161,41 no PIX</p>
-                     <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-title="Tooltip on right">p</button>
                      <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-title="Tooltip on right">pp</button>
+                     <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-title="Tooltip on right">p</button>
                          <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-title="Tooltip on right">m</button>
                 <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="bottom" data-bs-title="Tooltip on bottom">g</button>
                 <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="left" data-bs-title="Tooltip on left">gg</button>
@@ -403,8 +403,8 @@
                     <p class="card-text"><strong>R$ 169,90</strong></p>
                     <p class="card-text">em até 6x de R$ 28,32 sem juros</p>
                     <p class="card-text">Por R$ 161,41 no PIX</p>
-                     <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-title="Tooltip on right">p</button>
                      <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-title="Tooltip on right">pp</button>
+                     <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-title="Tooltip on right">p</button>
                            <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-title="Tooltip on right">m</button>
                 <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="bottom" data-bs-title="Tooltip on bottom">g</button>
                 <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="left" data-bs-title="Tooltip on left">gg</button>
@@ -422,8 +422,8 @@
                     <p class="card-text"><strong>R$ 169,90</strong></p>
                     <p class="card-text">em até 6x de R$ 28,32 sem juros</p>
                     <p class="card-text">Por R$ 161,41 no PIX</p>
-                     <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-title="Tooltip on right">p</button>
                      <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-title="Tooltip on right">pp</button>
+                     <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-title="Tooltip on right">p</button>
                            <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-title="Tooltip on right">m</button>
                 <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="bottom" data-bs-title="Tooltip on bottom">g</button>
                 <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="left" data-bs-title="Tooltip on left">gg</button>
@@ -440,8 +440,8 @@
                     <p class="card-text"><strong>R$ 169,90</strong></p>
                     <p class="card-text">em até 6x de R$ 28,32 sem juros</p>
                     <p class="card-text">Por R$ 161,41 no PIX</p>
-                     <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-title="Tooltip on right">p</button>
                      <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-title="Tooltip on right">pp</button>
+                     <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-title="Tooltip on right">p</button>
                             <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-title="Tooltip on right">m</button>
                 <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="bottom" data-bs-title="Tooltip on bottom">g</button>
                 <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="left" data-bs-title="Tooltip on left">gg</button>
@@ -459,8 +459,8 @@
                     <p class="card-text"><strong>R$ 169,90</strong></p>
                     <p class="card-text">em até 6x de R$ 28,32 sem juros</p>
                     <p class="card-text">Por R$ 161,41 no PIX</p>
-                     <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-title="Tooltip on right">p</button>
                      <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-title="Tooltip on right">pp</button>
+                     <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-title="Tooltip on right">p</button>
                            <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-title="Tooltip on right">m</button>
                 <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="bottom" data-bs-title="Tooltip on bottom">g</button>
                 <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="left" data-bs-title="Tooltip on left">gg</button>
@@ -484,8 +484,8 @@
                     <p class="card-text"><strong>R$ 169,90</strong></p>
                     <p class="card-text">em até 6x de R$ 28,32 sem juros</p>
                     <p class="card-text">Por R$ 161,41 no PIX</p>
-                     <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-title="Tooltip on right">p</button>
                      <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-title="Tooltip on right">pp</button>
+                     <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-title="Tooltip on right">p</button>
                     <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-title="Tooltip on right">m</button>
                 <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="bottom" data-bs-title="Tooltip on bottom">g</button>
                 <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="left" data-bs-title="Tooltip on left">gg</button>
@@ -503,8 +503,8 @@
                     <p class="card-text"><strong>R$ 169,90</strong></p>
                     <p class="card-text">em até 6x de R$ 28,32 sem juros</p>
                     <p class="card-text">Por R$ 161,41 no PIX</p>
-                     <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-title="Tooltip on right">p</button>
                      <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-title="Tooltip on right">pp</button>
+                     <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-title="Tooltip on right">p</button>
                     <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-title="Tooltip on right">m</button>
                 <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="bottom" data-bs-title="Tooltip on bottom">g</button>
                 <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="left" data-bs-title="Tooltip on left">gg</button>
@@ -522,8 +522,8 @@
                     <p class="card-text"><strong>R$ 169,90</strong></p>
                     <p class="card-text">em até 6x de R$ 28,32 sem juros</p>
                     <p class="card-text">Por R$ 161,41 no PIX</p>
-                     <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-title="Tooltip on right">p</button>
                      <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-title="Tooltip on right">pp</button>
+                     <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-title="Tooltip on right">p</button>
                <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-title="Tooltip on right">m</button>
                 <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="bottom" data-bs-title="Tooltip on bottom">g</button>
                 <button type="button" class="btn btn-secondary btn-custom" data-bs-toggle="tooltip" data-bs-placement="left" data-bs-title="Tooltip on left">gg</button>
