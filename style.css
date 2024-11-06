@@ -114,14 +114,14 @@
         }
 
         .banner-full-width {
-            width: 357px; 
+            width: 366px; 
             height: 600px; 
             background-size: cover;
         }
 
         .last-banner {
             width: 99%;
-            height:697px;
+            height:674px;
             margin-left: 0;
             margin-right: auto;
         }
