@@ -4,7 +4,7 @@
         .navbar {
             margin-top: 30px;
         }
-        .fixed-top-bar {
+       .fixed-top-bar {
             background-color: #69110c;
             color: white;
             padding: 3px 0;
@@ -17,7 +17,6 @@
             justify-content: space-between;
             align-items: center;
             padding: 3px 15px;
-           margin-top: 8px;
         }
         .fixed-top-bar .left-side {
             display: flex;
