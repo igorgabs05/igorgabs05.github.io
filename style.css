@@ -17,6 +17,7 @@
             justify-content: space-between;
             align-items: center;
             padding: 3px 15px;
+           margin-top: 8px;
         }
         .fixed-top-bar .left-side {
             display: flex;
