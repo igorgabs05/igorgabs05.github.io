@@ -1,10 +1,10 @@
- body {
+body {
             font-family: 'Arimo', sans-serif;
         }
         .navbar {
             margin-top: 30px;
         }
-       .fixed-top-bar {
+        .fixed-top-bar {
             background-color: #69110c;
             color: white;
             padding: 3px 0;
@@ -105,7 +105,7 @@
             background-color:darkred;
             border-color:darkred;
         }
-       
+
         .banner-container {
             display: flex;
             justify-content: 5px;
@@ -113,15 +113,15 @@
              height: 600px;
         }
 
-        .banner-full-width {
+        .banner-full-width { 
             width: 366px; 
             height: 600px; 
             background-size: cover;
         }
 
         .last-banner {
-            width: 99%;
-            height:67px;
+            width: 99%; 
+            height:674px;
             margin-left: 0;
             margin-right: auto;
         }
@@ -133,13 +133,76 @@
           flex: 1; 
     padding: 5px 7px;
     font-size: 12px; 
-   
+
     .btn-container {
     display: flex;
     justify-content: space-between; 
     flex-wrap: nowrap;
     gap: 5px; 
 }
-   
-      
-     
+
+        }
+        .footer-container {
+            display: flex;
+            justify-content: space-between;
+            flex-wrap: wrap;
+            max-width: 1300px;
+            margin: 0 auto;
+            padding: 0 30px; 
+        }
+        .footer-column {
+            flex: 1;
+            margin: 0 5px; 
+        }
+        .footer-column h4 {
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+        .footer-column ul {
+            list-style: none;
+            padding: 0;
+        }
+        .footer-column ul li {
+            margin-bottom: 5px;
+        }
+        .footer-column ul li a {
+            text-decoration: none;
+            color: #000;
+        }
+        .social-icons a {
+            margin-right: 10px;
+        }
+        .social-icons img {
+            width: 24px;
+        }
+        .payment-icons {
+            margin-top: 10px;
+        }
+        .payment-icons img {
+            margin-right: 10px;
+            width: 24px;
+        }
+        .subscribe-section {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            width: 450px; 
+            margin-right: 0; 
+        }
+        .subscribe-section input[type="email"],
+        .subscribe-section input[type="text"],
+        .subscribe-section button {
+            padding: 10px;
+            margin-bottom: 15px;
+            width: 100%;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            box-sizing: border-box;
+        }
+        .subscribe-section button {
+            background-color: black;
+            color: white;
+            border: none;
+            cursor: pointer;
+            width: 100%;
+        }
