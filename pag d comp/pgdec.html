@@ -1,5 +1,4 @@
 
-
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>    <meta charset="UTF-8">
@@ -52,7 +51,7 @@
          <a class="nav-link" href="#"><i class="fas fa-heart"></i></a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#collection"><i class="fas fa-shopping-cart"></i></a>
+                    <a class="nav-link" href="../carrinho/carrinho.html"><i class="fas fa-shopping-cart"></i></a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="file:///C:/Users/beatr/OneDrive/Área%20de%20Trabalho/hecate/login.htm"><i class="fas fa-user"></i> Entrar/Cadastre-se</a>
@@ -94,16 +93,16 @@
 
         <div class="detalhes-produto">
             <h1>Nome do produto</h1>
-            <p>ID: <span>id</span></p>
-            <p class="avaliacao">Avaliação: <span>número de comentários</span></p>
+            <p>ID: <span>2424242424</span></p>
+            <p class="avaliacao">Avaliação:4,3</p>
             <p class="preco">R$ 169,90</p>
 
             <div class="escolha-cor">
-                <p>Cor: <span>preto</span></p>
+                <p>Cores disponiveis</p>
                 <div class="cores">
-                    <div class="cor"></div>
-                    <div class="cor"></div>
-                    <div class="cor"></div>
+                    <div class="cor1"></div>
+                    <div class="cor2"></div>
+                    <div class="cor3"></div>
                 </div>
             </div>
 
@@ -119,7 +118,9 @@
             </div>
 
             <div class="acoes-produto">
-                <button class="adicionar-carrinho">Adicionar ao carrinho</button>
+                <button onclick="adicionarAoCarrinho(1, 'Nome do Produto', 169.90, 'pag d comp/img/comprar1.png')">
+                    Adicionar ao Carrinho                                     
+                </button>     
                 <button class="favoritos">
                     <i class="fas fa-heart"></i>
                 </button>

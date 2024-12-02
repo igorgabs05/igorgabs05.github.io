@@ -70,4 +70,29 @@ function adicionarComentario() {
     } else {
         alert("Por favor, escreva um comentário antes de enviar.");
     }
+}         
+function mudarPagina(pagina) {
+    // Lógica para alterar o conteúdo exibido
 }
+
+function adicionarAoCarrinho(id, nome, preco, imagem) {
+    // Obtém o carrinho atual do localStorage ou inicializa um vazio
+    let carrinho = JSON.parse(localStorage.getItem('carrinho')) || [];
+
+    // Verifica se o produto já existe no carrinho
+    const produtoExistente = carrinho.find(item => item.id === id);
+    if (produtoExistente) {
+        // Incrementa a quantidade
+        produtoExistente.quantidade += 1;
+    } else {
+        // Adiciona o produto com a imagem
+        carrinho.push({ id, nome, preco, imagem, quantidade: 1 });
+    }
+
+    // Salva o carrinho atualizado no localStorage
+    localStorage.setItem('carrinho', JSON.stringify(carrinho));
+
+    alert(`${nome} foi adicionado ao carrinho!`);
+}
+
+    

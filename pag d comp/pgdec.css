@@ -4,7 +4,7 @@ body {
 }
 
 
-        }
+    
         .navbar {
             margin-top: 30px;
         }
@@ -75,7 +75,7 @@ body {
 .produto-container {
     display: flex;
     gap: 20px;
-    background-color:#69110c
+    background-color:none;
     padding: 40px;
     border-radius: 10px;
    
@@ -158,10 +158,24 @@ body {
     gap: 10px;
 }
 
-.cor {
+.cor1 {
     width: 20px;
     height: 20px;
-    background-color: #4b0000;
+    background-color: #000;
+    border: 1px solid #000;
+    border-radius: 50%;
+}
+.cor2 {
+    width: 20px;
+    height: 20px;
+    background-color: none;
+    border: 1px solid #000;
+    border-radius: 50%;
+}
+.cor3 {
+    width: 20px;
+    height: 20px;
+    background-color: none;
     border: 1px solid #000;
     border-radius: 50%;
 }
