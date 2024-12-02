@@ -2,10 +2,7 @@ body {
     font-family: 'Arimo', sans-serif;
     font-size: 16px; /* Ajuste o valor conforme desejar */
 }
-
-
-        }
-        .navbar {
+       .navbar {
             margin-top: 30px;
         }
         .fixed-top-bar {
@@ -75,10 +72,9 @@ body {
 .produto-container {
     display: flex;
     gap: 20px;
-    background-color:#69110c
+    background-color: #69110c;
     padding: 40px;
     border-radius: 10px;
-   
 }
 
 .imagens-produto {
